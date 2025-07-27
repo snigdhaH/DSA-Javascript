@@ -1,11 +1,21 @@
-2 hours + 1 hour + Revision 
-MORNING + EVENING+ NIGHT 
+# 📘 Month 1 - DSA with JavaScript
 
-Month 1 :
-LEVEL 0:
-week 1 Arrays / Searching / Sorting 
-week 2 Recursion 
-week 3 String 
-week 4 Linked List 
+**2 hours + 1 hour + Revision**  
+**MORNING + EVENING + NIGHT**
 
-QUESTIONS :
+---
+
+## Month 1 Plan
+
+### LEVEL 0:
+
+- Week 1: Arrays / Searching / Sorting  
+- Week 2: Recursion  
+- Week 3: String  
+- Week 4: Linked List
+
+---
+
+## QUESTIONS:
+
+(To be added...)
