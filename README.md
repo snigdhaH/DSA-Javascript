@@ -1,46 +1,11 @@
-# 📘 Month 1 - DSA with JavaScript
+2 hours + 1 hour + Revision 
+MORNING + EVENING+ NIGHT 
 
-Tracking my Week 1–4 progress in solving core DSA problems using JavaScript.
+Month 1 :
+LEVEL 0:
+week 1 Arrays / Searching / Sorting 
+week 2 Recursion 
+week 3 String 
+week 4 Linked List 
 
----
-
-## ✅ Week 1: Arrays
-
-- [x] Reverse an array
-- [x] Find the maximum/minimum element
-- [ ] Kadane’s Algorithm
-- [ ] Two Sum problem
-- [ ] Move all 0s to the end
-
----
-
-## ⏳ Week 2: Searching & Sorting
-
-- [ ] Linear Search
-- [ ] Binary Search
-- [ ] Bubble Sort
-- [ ] Merge Sort
-- [ ] Quick Sort
-
----
-
-## 🧠 Week 3: Recursion
-
-- [ ] Factorial
-- [ ] Fibonacci
-- [ ] Tower of Hanoi
-- [ ] Recursion Tree
-
----
-
-## 🪢 Week 4: Linked List + Strings
-
-### Linked List
-- [ ] Insert at beginning
-- [ ] Reverse a linked list
-- [ ] Detect a loop
-
-### String
-- [ ] Check Palindrome
-- [ ] Reverse a string
-- [ ] Longest substring without repeating characters
+QUESTIONS :
