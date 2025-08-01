@@ -16,4 +16,4 @@ function factorial(num){
     }
     return fact;
 }
-console.log(factorial(5));
+console.log(factorial(1));
