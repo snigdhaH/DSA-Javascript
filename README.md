@@ -56,8 +56,8 @@
 
 
 ## 📂 Recursion
-- [ ] Sum of first N numbers
-- [ ] Sum of all numbers in an array
+- [x] Sum of first N numbers
+- [x] Sum of all numbers in an array
 - [ ] Factorial of N
 - [ ] Power of 2
 - [ ] Fibonacci sequence
